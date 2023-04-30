@@ -1,24 +1,3 @@
-# inifinity
+Infinity Scroll By Vue js
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+Infinity Scroll implementation using VueJS, a popular JavaScript framework for building user interfaces. The Infinity Scroll feature allows users to keep scrolling down a page and new content will be loaded automatically without the need to click on a "Load More" button.
